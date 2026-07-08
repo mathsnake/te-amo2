@@ -2,7 +2,7 @@ h1{
     text-align: center;
     color: red;
     -webkit-text-stroke:2px white;
-    font-size: 70px;
+    font-size: large;
 }
 body{
     font-family:cursive ;
